@@ -1,0 +1,500 @@
+/* default for desktop*/
+body {
+    font-family: Roboto, sans-serif;
+    font-size: 11pt;
+    -webkit-font-smoothing: antialiased;    
+}
+
+div.dashed-border{
+    border: 1px dashed #CCCCCC;
+}
+
+div.wrapper {    
+    background-color: #6e8395!important;    
+}
+
+div.container {
+    background-color: white;    
+    width: 86%;
+    font-family: Roboto, sans-serif;
+}
+
+div.main-container {
+    background-image: url('/images/deco/background.jpg')!important;    
+    background-size: 100% auto;
+    background-position: center top;    
+    background-repeat:no-repeat!important;
+    background-color: #6e8395!important;
+}
+
+div.header {
+    
+    border-style: solid;
+/*    margin: 0px -15px 0px -15px;*/
+    
+}
+
+div.header-top {    
+    border-top-color: #3B6999;    
+    border-width: 3px 0px 0px 0px;
+}
+
+div.header-bottom {
+    border-bottom-color: #3B6999;    
+    border-width: 0px 0px 3px 0px;
+}
+
+
+.horizontal-line{
+    background-image: url('/images/deco/hr-line.png');
+    background-repeat: no-repeat;    
+    height: 1px;
+}
+
+.row-header {
+    width: 100%;
+    height: 10px;
+    text-align: center;
+}
+
+.nopadding {
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+span.name, span.jobTitle, span.location {
+    font-size: 14pt;    
+}
+h1 {
+    font-size: 18pt;
+}
+span.address {
+    font-size: 11pt;      
+    text-align: left;    
+}
+span.postalCode {
+    margin-left: -10px;
+}
+span.telephone {
+    /*padding-left: 15pt;*/
+}
+
+
+div.text-footer {
+    font-size: small;    
+}
+div.last-row {
+    padding-bottom: 10px;
+}
+
+/*align text in rows*/
+div.align {
+    padding-left: 270px;
+}
+
+.icon-home{
+    background-image: url('/images/icons/home.png');
+    background-position: center center;
+    height: 25px;
+    width: 30px;
+    background-repeat: no-repeat;
+}
+.icon-phone{
+    background-image: url('/images/icons/phone.png');
+    background-position: center center;
+    height: 25px;
+    width: 30px;
+    background-repeat: no-repeat;
+}
+.phone-call {
+    font-size: 20pt;
+    color: chartreuse;
+}
+.icon-map {
+    font-size: 20pt;
+    color: #FE7569;
+}
+
+.no-icon-address{
+    height: 25px;
+    width: 30px;    
+}
+
+.icon-g-direction{
+    padding-left: 33px;
+    height: 21px;
+}
+
+.icon-call {
+    height: 22px;
+}
+
+.tabs md-content {
+    background-color: transparent !important; 
+}
+.tabs md-content md-tabs {
+    background: #f6f6f6;
+    border: 1px solid #e1e1e1; 
+}
+.tabs md-content md-tabs md-tabs-wrapper {
+    background: white; 
+}
+.tabs md-content h1:first-child {
+    margin-top: 0; 
+}
+
+p.gap-left-top{
+    margin-left: 10px;
+    margin-top: 5px;
+}
+
+.goToTop
+{
+    display:none;
+    border: none;
+    position: fixed;
+    height: 30px;
+    width: 30px;
+    font-size: 24pt;
+    text-decoration: none;
+    color:black;
+    bottom: 0;
+    right: 0;
+    z-index: 100000;
+    cursor: pointer;
+    margin: 10px;
+    -moz-opacity: 0.60;
+    opacity: .60;
+    filter: alpha(opacity=60);    
+    /*background: url(../images/icons/top_move.png) no-repeat right top;*/
+}
+.goToTop:hover{
+    color: blue;
+    text-decoration: none;
+}
+.go-to-top{
+    border: none;    
+    display:block;
+    background: url(../images/icons/go_top.png) no-repeat top;
+    height: 45px;
+    width: 25px;
+    float: none;
+    margin: 0 auto;    
+}
+
+.icon-osteo{
+    border: none; 
+    height: 50px;
+    margin: 5px 0px 10px 0px;
+}
+
+.icon-osteopathie{
+    background: url(../images/osteopathie/osteopathie.jpg) no-repeat top;
+}
+.icon-indications{
+    background: url(../images/osteopathie/indication.jpg) no-repeat top;
+}
+.icon-consultation{
+    background: url(../images/osteopathie/consultation.jpg) no-repeat top;
+}
+.icon-rendez-vous{
+    background: url(../images/osteopathie/rendez-vous.jpg) no-repeat top;
+}
+.text-small{
+    font-size: 11pt;
+}
+
+a.logo-brand{
+    background-image: url('/images/icons/logo-brand.png'); 
+    background-repeat: no-repeat; 
+    width: 60px;
+}
+
+.leftpane {
+    margin-top: 80px;
+}
+
+div.patients-all {
+    margin-bottom: 15px;
+}
+
+div.section-title {
+    margin: 10px 0px 10px 0px;
+    font-weight: bold;
+}
+div.section {
+    color:rgb(255,153,0);
+    font-size:14pt;
+    font-weight:bold;
+    padding: 20px 0px 10px 0px;
+}
+
+
+span.subsection {
+    color: rgb(56,118,29);
+    padding: 15px 0px 15px 0px;
+}
+span.first-subsection {
+    color: rgb(56,118,29);        
+}
+span.subsection:before {
+    content: "\A\A";
+    white-space: pre;
+}
+.border-purple {
+    border: 1px solid purple;
+}
+ol {
+    margin:0 0 1.5em;
+    padding:0;
+    counter-reset:item;
+}
+ol>li {
+    margin:0;
+    padding:0 0 0 2.5em;    
+    list-style-type:none;
+    counter-increment:item;
+    font-weight: bold;
+}
+
+ol>li:before {
+    display:inline-block;
+    width:1.5em;
+    padding-right:0.5em;    
+    text-align:right;
+    content:counter(item) ".";
+}
+ol>li>p {
+    font-weight: normal;
+}
+
+/*li.ying-yang:before {
+    content: "☯ ";    
+    color:rgb(69,129,142);
+}*/
+ul.leaders {
+    max-width: 40em;
+    padding: 0;
+    overflow-x: hidden;
+    list-style: none}
+ul.leaders li:before {
+    float: left;
+    width: 0;
+    white-space: nowrap;
+    color: rgb(69,129,142);
+    content:
+        ". . . . . . . . . . . . . . . . . . . . "
+        ". . . . . . . . . . . . . . . . . . . . "
+        ". . . . . . . . . . . . . . . . . . . . "
+        ". . . . . . . . . . . . . . . . . . . . "}
+ul.leaders span:first-child {
+    padding-right: 0.33em;
+    background: white;
+    color: rgb(69, 129, 142)
+}
+
+ul.leaders span + span {
+    float: right;
+    padding-left: 0.33em;
+    background: white;
+    color: rgb(69, 129, 142)
+}
+
+
+ul.ying-yang > li {
+    list-style-type: none;
+}
+
+ul.ying-yang > li:before {
+    content: "☯ ";
+}
+
+@media only screen and (max-width : 361px){
+    .img-responsive {
+        width: 40px;
+        /*margin: 0px 32px 0px 32px;*/
+    }
+
+    
+}
+
+/* Custom, iPhone Retina */ 
+@media only screen and (min-width : 320px) and (max-width : 361px){
+    div.container {
+        width: 100%; 
+    }
+
+    div.patients-all{
+        background: url(../images/osteopathie/patients-xs.png) no-repeat top;
+        height: 120px;
+        width: 100%;
+    }
+    span.name, span.jobTitle, span.location {
+        font-size: 12pt;
+    }
+
+    span.address {
+        font-size: 11pt;           
+    }
+
+    .icon-osteo{
+        border: none; 
+        height: 50px;
+    }
+
+    .icon-osteopathie{
+        background: url(../images/osteopathie/osteopathie-xs.jpg) no-repeat top;
+    }
+    .icon-indications{
+        background: url(../images/osteopathie/indication-xs.jpg) no-repeat top;
+    }
+    .icon-consultation{
+        background: url(../images/osteopathie/consultation-xs.jpg) no-repeat top;
+    }
+    .icon-rendez-vous{
+        background: url(../images/osteopathie/rendez-vous-xs.jpg) no-repeat top;
+    }
+    div.footer-links > div > a {
+        font-size: 9pt;
+    }
+
+    .leftpane {
+        margin: 0;
+    }    
+}
+
+/* Extra Small Devices, Phones */ 
+@media only screen and (min-width : 362px) and (max-width : 767px) {
+    div.patients-all{
+        background: url(../images/osteopathie/patients-xs.png) no-repeat top;
+        height: 120px;
+        width: 100%;
+    }
+}
+
+@media only screen and (min-width : 320px) and (max-width : 800px){
+    .text-small {
+        font-size: 10pt;
+    }
+}
+/* Ipad in Portrait and Landscape */
+@media only screen and (min-width : 768px) and (max-width : 1279px){
+    div.logo{
+        /*margin-top: 20px;*/
+        background-repeat: no-repeat;
+        height: 80px;
+        display: inline-block;    
+    }
+    div.logo-left{
+        background-image: url('/images/logos/dame-medium.png');
+        background-position: right center;
+        margin-left: 15px;
+        width: 100px;
+    }
+    div.logo-right{
+        background-image: url('/images/logos/logo-medium.png');
+        background-position: left center;
+        margin-left: -40px;
+        width: 85px;
+    }
+
+    div.name {
+        margin-left:0px;        
+    }
+    span.name, span.jobTitle, span.location {
+        font-size: 12pt;            
+    }
+
+    div.address{
+        padding-top: -25px;        
+        /*padding-left: 50px;*/
+    }
+    div.address-no-icon{        
+        /*padding-left: 76px;*/
+    }
+    span.address {
+        font-size: 11pt;        
+    }
+    .text-hidable-xs{
+        display:none;
+    }
+    .icon-home, .icon-phone, .icon-call {        
+        height: 22px;        
+    }    
+    .icon-g-direction{
+        /*padding-left: 44px;*/
+    }
+    .icon-osteopathie{
+        background: url(../images/osteopathie/osteopathie-xs.jpg) no-repeat top;
+    }
+    .icon-indications{
+        background: url(../images/osteopathie/indication-xs.jpg) no-repeat top;
+    }
+    .icon-consultation{
+        background: url(../images/osteopathie/consultation-xs.jpg) no-repeat top;
+    }
+    .icon-rendez-vous{
+        background: url(../images/osteopathie/rendez-vous-xs.jpg) no-repeat top;
+    }
+
+    div.patients-all{
+        background: url(../images/osteopathie/patients-md.png) no-repeat top;
+        height: 180px;
+        width: 120%;
+    }
+    .image-left-column, .image-right-column {
+        width: 100%;
+    }
+
+}
+
+/* Large Devices, Wide Screens */
+@media only screen and (min-width : 1280px) {
+    div.logo{        
+        background-repeat: no-repeat;
+        height:80px;
+    }
+    div.logo-left{
+        background-image: url('/images/logos/dame-large.png');        
+        background-position: right center;
+    }
+    div.logo-right{
+        background-image: url('/images/logos/logo-large.png');        
+        background-position: left center;
+    }
+
+    span.name, span.jobTitle, span.location {
+        font-size: 12pt;
+        font-weight: bold;        
+    }
+    h1.name {
+        padding-left: 50px;
+    }
+
+    span.address {
+        font-size: 12pt;      
+    }
+    div.address-wrapper {
+        width: 80%;
+        padding-left: 200px;
+
+    }
+    .icon-home, .icon-phone, .icon-call {
+        background-position: center center;
+        height: 22px;
+    }
+
+    .icon-g-direction{
+        /*padding-left: 43px;*/
+        height: 25px;
+    } 
+    .horizontal-line{
+        /*width: 680px;*/
+    }
+
+    div.patients-all{
+        background: url(../images/osteopathie/patients-lg.png) no-repeat top;
+        height: 350px;
+        width: 120%;        
+    }    
+}

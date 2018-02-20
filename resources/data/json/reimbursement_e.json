@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Eovi Groupe",
+        "adresse": "25 Route de Montfavet-BP2034- 84023 Avignon ",
+        "telephone": "09 69 39 89 13",
+        "remboursement": "Solo-Duo 2, Tribu 2, maestro 2, Territeo 2 : 3x20€/an, Solo-duo 3, Tribu 3, Maestro 3, Territeo 3 : 3x25€/an, Solo-Duo 4, Tribu 4, Maestro 4, Territeo 4 : 3x30€/an, Tribu, Profiléo, Maestro Prémium : 3x40€/an"
+    },
+    {
+        "name": "Emoa (Mutuelle du Var)",
+        "adresse": "89 Place de la Liberté 83000 Toulon",
+        "telephone": "04 94 09 50 00",
+        "remboursement": "Célibataire (50% des frais) : Niveau 4 : 20€/an, Niveau 5 : 40€/an, Niveau 6 : 80€/an ; Famille (50% des frais) : Famil' emoa 1 : 40€/an, Famil' emoa 2 : 60€/an, Famil' emoa 3 : 80€/an, Famil' Emoa 4 : 100€/an ; Sénior (50% des frais) : Vital' Emoa 2 : 40€/an, Vital' Emoa 3 : 75€/an, Vital' Emoa 4 : 100€/an, Vital' Emoa 5 : 125€/an"
+    },
+    {
+        "name": "Envisages (Fédération Nationale De l'Epicerie)",
+        "adresse": "5 Rue Des Reculettes 75013 Paris",
+        "telephone": "01 55 43 31 75",
+        "remboursement": "selon contrat Jusqu'à 200€/an ; Confort Option 1: +20€/an, Option 2 : +44€/an, Option 3 : +120€/an"
+    }
+]

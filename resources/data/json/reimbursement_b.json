@@ -1,0 +1,13 @@
+[
+ 
+  { "name" : "Bnp",
+    "adresse" : "16 Bld des Italiens 75009 Paris cedex",
+    "telephone" : "08 20 82 00 01",
+    "remboursement" : "Confort : 100€/an, Confort+ : 200€/an"
+  },
+  { "name" : "Banque accord (Auchan)",
+    "adresse" : "BP 6 59895 Lille cedex 9",
+    "telephone" : "08 92 68 13 00",
+    "remboursement" : "Formule 4 : 75€/an"
+  }
+]

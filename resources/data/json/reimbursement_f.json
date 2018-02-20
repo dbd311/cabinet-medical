@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Force Sud (AG2R)",
+        "adresse": "21 Place Saint Aphrodite 34535 Beziers",
+        "telephone": "09 74 50 12 34",
+        "remboursement": "Modulo Santé : 50€, Renfort Bien Etre : 200€/an, Optimo : 200€/an, Modulo Sénior : 70€/an, Optimo Sénior : 250€/an"
+    },
+    {
+        "name": "Filhet-Allard",
+        "adresse": "rue Cervantès MERIGNAC 33735 BORDEAUX CEDEX 9",
+        "telephone": "05 56 34 65 00",
+        "remboursement": "Selon contrat"
+    }
+]

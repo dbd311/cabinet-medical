@@ -1,0 +1,14 @@
+[
+    {
+        "name": "UCR",
+        "adresse": "1523 Av du Cat 59400 Cambrai",
+        "telephone": "09 75 17 75 17",
+        "remboursement": "Adaptis 2 : Niveau 1 : Jusqu'à 35€/an, Niveau 2 : Jusqu'à 50€/an, Niveau 3 : Jusqu'à 75€/an, Niveau 4 : Jusqu'à 100€/an, Niveau 5 : Jusqu'à 125€/an, Niveau 6 : Jusqu'à 150€/an, Niveau 7 : Jusqu'à 175€/an"
+    },
+    {
+        "name": "Uni santé prévoyance",
+        "adresse": "34 rue des Moulins 51715 Reims ",
+        "telephone": "09 69 39 01 90",
+        "remboursement": "Equilibre : 3x20€/an, Tranquilité : 3x25€/an, Confort : 3x30€/an"
+    }
+]

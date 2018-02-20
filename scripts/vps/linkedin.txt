@@ -1,0 +1,6 @@
+https://www.linkedin.com/developer/apps/4232724/auth
+
+id client: 78m7op1ky196bt
+secret client YTjyZv6qWya6G4lL
+
+https://www.linkedin.com/oauth/v2/authorization?response_type=code&client_id=78m7op1ky196bt&redirect_uri=http%3A%2F%2Flocalhost%3A8000%2Fauth%2Flinkedin%2Fcallback

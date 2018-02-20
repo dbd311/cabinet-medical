@@ -1,0 +1,1 @@
+curl --header 'Access-Token: o.fBVO55GadciVz0QooUPDWX2W9bAJMrdL'  https://api.pushbullet.com/v2/users/me

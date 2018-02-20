@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Ims Expat",
+        "adresse": "51 Rue Hoche 75405 Paris Cedex 08",
+        "telephone": "01 42 12 26 50",
+        "remboursement": "Plan 3 : 750€/an, Plan 4 : 1000€/an"
+    },
+    {
+        "name": "Integrance",
+        "adresse": "39 Rue Damrémont 75882 Paris cedex 18",
+        "telephone": "09 69 32 03 25",
+        "remboursement": "Néo Solidarité, Confort, Dynamic', Etendu' : 4x30€/séance/an ; Gamme Alsace Moselle : Jusqu'à 150€/an ; Garantie Personnes Polyhandicapées en établissement, Séniors EHPAD : 150€/an"
+    }
+]

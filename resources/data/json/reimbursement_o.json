@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Ociane",
+        "adresse": "8 Terrasse Front du Medoc 33000 Bordeaux",
+        "telephone": "05 57 81 44 00",
+        "remboursement": "Oxyjeune 200, 250 : 3x30€, Ozmoz Equilibre 150 : 2x30€/an, Ozmoz 200, 250, 300, 400 : 3x30€ ; Sénior : Optimum 200, 300, 500 : 3x30€/an"
+    },
+    {
+        "name": "Opale",
+        "adresse": "89 Bld La Fayette 62100 Calais",
+        "telephone": "03 21 19 09 19",
+        "remboursement": "3x30€/an"
+    },
+    {
+        "name": "Opega",
+        "adresse": "18 rue de l'hotel de ville 75004 Paris",
+        "telephone": "01 42 74 58 35",
+        "remboursement": "new 125 : 25€/an, New 150 : 75€/an, New 200 : 100€/an"
+    }
+]

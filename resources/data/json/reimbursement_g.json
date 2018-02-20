@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Gan",
+        "adresse": "8-10 Rue D'Astorg 75383 Paris cedex 08",
+        "telephone": "01 70 94 20 00",
+        "remboursement": "Selon contrat jusqu'à 3x30€/an"
+    },
+    {
+        "name": "Gay prevoyance",
+        "adresse": "15 Rue porte de la buisse BP 105 38507 Voiron",
+        "telephone": "04 76 84 94 46",
+        "remboursement": "Formule 200 : 6x20€/an, Formule 350 : 6x35€/an"
+    },
+    {
+        "name": "Generali",
+        "adresse": "11 bld Haussman 75456 Paris cedex 9",
+        "telephone": "01 58 34 13 41",
+        "remboursement": "Budget : Formule 3 : 80€/an ; Confort : Formule 3 : 80€/an, Formule 4, 5 : 100€/an ; Famille : Formule 3 : 80€/an, Formule 4 : 100€/an"
+    },
+    {
+        "name": "Gras Savoye",
+        "adresse": "2-8 Rue Ancelle 92200 Neuilly sur seine",
+        "telephone": "08 00 10 04 77",
+        "remboursement": "Santé Jeune : Jusqu'à 70€/an, Santé Famille : Jusqu'à 270€/an"
+    },
+    {
+        "name": "Grm",
+        "adresse": "15 Rue Rouget de lisle BP 25 73301 Montceau cedex",
+        "telephone": "08 10 07 40 75",
+        "remboursement": "Tonic : 75€/an, Excelence : 110€/an, Zenit: 150€/an"
+    },
+    {
+        "name": "Groupama",
+        "adresse": "8-19 Rue Dastorg 75008 Paris",
+        "telephone": "08 10 76 57 65",
+        "remboursement": "Niveau 2, 3 : 2x30€/an, Niveau 4, 5 : 3x30€/an"
+    },
+    {
+        "name": "Groupe France Mutuelle",
+        "adresse": "43 Rue de richelieu 75040 Paris cedex 1",
+        "telephone": "08 05 70 40 50",
+        "remboursement": "Forfait bien-être"
+    }
+]

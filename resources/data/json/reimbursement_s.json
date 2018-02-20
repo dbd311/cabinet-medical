@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Smatis",
+        "adresse": "6 à 14 Rue du Piave 16920 Angouleme cedex 9",
+        "telephone": "09 77 40 04 00",
+        "remboursement": "Smatis jeune, Jeune Banco, Perso Banco, Sénior, Sénior Banco, Perso Evolution 5, 6, Famille : 3x30€/an"
+    },
+    {
+        "name": "Smerep",
+        "adresse": "16 Bld deu general Leclerc 92115 Clichy Cedex",
+        "telephone": "01 56 54 36 34",
+        "remboursement": "Médiane, Niveau 2 : 30€/an, Totale, Niveau 3 : 40€/an"
+    },
+    {
+        "name": "SMIP (cybermutuelle)",
+        "adresse": "20 Rue Thiers 79000 Niort",
+        "telephone": "05 49 77 27 00",
+        "remboursement": "Confort 2 : Jusqu'à 2x30€/an, Confort 3 : Jusqu'à 40x3€/an"
+    },
+    {
+        "name": "Smirsep",
+        "adresse": "69/71 Rue Daniele Casanova 94200 Ivry sur seine",
+        "telephone": "01 46 72 03 68",
+        "remboursement": "Topsanté Maxi, Tns : Simple, Doublé, Quarté, Quinté : 4x15€/an, Age d'Or : TM,Complet,Complet+: 4x15€/an ; Santissimo Confort : Option 2, Completissimo : 4x25€/an"
+    },
+    {
+        "name": "SMT",
+        "adresse": "20 Bld Marcel Sembat bp 423 11104 Narbonne cedex",
+        "telephone": "04 68 65 18 00",
+        "remboursement": "Equilibre 3, 4, Bien etre, confort, sérénité 1, Sérénité 2 : 50€/an, B : 80€/an, C : 100€/an"
+    },
+    {
+        "name": "Sorual",
+        "adresse": "7 Place des Halles 67000 Strasbourg",
+        "telephone": "03 88 15 22 50",
+        "remboursement": "Classique, SMO 1 : 15€/Consultation, Médiane, SMO 2 : 23€/consultation, Optimale, SMO 3 : 31€/consultation, Normale : 9€/consultation, Améliorée : 15€/consultation, Plus : 21€/consultation"
+    },
+    {
+        "name": "Swiss life",
+        "adresse": "86 bld Haussman 73080 Paris cedex 8",
+        "telephone": "01 40 82 38 38",
+        "remboursement": "Niveau 2, 3, 4 : 5x32€/an, Niveau 5, 6 : 5x43€/an, Niveau 7 : 5x53€/an"
+    }
+]

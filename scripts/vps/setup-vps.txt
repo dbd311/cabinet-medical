@@ -1,0 +1,33 @@
+ssh root@91.186.8.141 -p 2525
+Osteo57100@uoT
+
+# Secure VPS
+https://www.remipoignon.fr/9-securiser-son-serveur-linux
+# Add a new user namely 'osteo'
+adduser osteo
+user: osteo
+pwd: NxxStxx311
+
+# assign this user to different groups
+usermod -G root,sudo,adm osteo
+exit
+
+---------------------------------------------
+
+ssh osteo@91.186.8.141 -p 2525
+mkdir -p webapps/git/osteo.git
+cd ~/webapps/git/osteo.git
+
+# make a symbolic link
+sudo ln -s /home/osteo/webapps/git/osteo.git/ /osteo.git
+
+# init the shared remote git repository
+git init --bare --shared=group
+
+# from the client side
+git clone ssh://osteo@91.186.8.141:2525/osteo.git
+
+sudo grep home.html -rl -e '2015' | xargs  sed -i "s/2015/2016/g"
+grep . -rl -e '© 2015' | xargs  sed -i "s/© 2015/© 2016/g"
+
+grep ./ --exclude-dir={.git,vendor,node_modules,storage} -nwr -e ""

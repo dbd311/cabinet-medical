@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Radiance",
+        "adresse": "29 Bld Edgar Quinet 75014 Paris",
+        "telephone": "08 00 36 63 66",
+        "remboursement": "Cosaé 12 : 3X15€/an, Cosaé 13 : 3X30€/an, Cosaé 32 : 3x15€/an, Cosaé 33, 34 : 3x30€/an, Cosaé 35 : 3x40€/an, Cosaé 42 : 3x15€/an, Cosaé 43, 44 : 3x30€/an, Cosaé 45 : 3x40€/an"
+    },
+    {
+        "name": "RATP",
+        "adresse": "Tour Gamma 75582 Paris cedex 12; 62 Quai de la Rapée 75012 Paris",
+        "telephone": "08 20 57 01 70/ 01 49 28 19 00",
+        "remboursement": "Garantie Prim : 20% par consultation C du secteur 1, Prim Prothèse, Première Prothèse, Premiere : 40% d'une consultation C du secteur 1, Garantie Première active, Optima , Optima + : Jusqu'à 5x30€/an"
+    },
+    {
+        "name": "Réunica Arpège, Muta santé, carpréca-cairpsa, Bayard prévoyance…)",
+        "adresse": "154 Rue Anatole France 92599 Levallois Perret",
+        "telephone": "08 10 10 37 37",
+        "remboursement": "Tranquilité : 3x15€/an, Confort : 5x20€/an"
+    }
+]

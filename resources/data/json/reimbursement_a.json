@@ -1,0 +1,107 @@
+[
+  { "name" : "Abella",
+    "adresse" : "2 Bld du 4 septembre BP 26 38501 Voiron cedex",
+    "telephone" : "08 05 81 48 15/ 04 76 67 92 15",
+    "remboursement" : "Selon contrat de 45€ à 400€/an"
+  },
+  { "name" : "Adep (prévoyance créole)",
+    "adresse" : "11 Immeuble west Side Rue Ferdinand Forest Prolongée, BP-2342-97122 Baie Mahault",
+    "telephone" : "05 90 38 00 22",
+    "remboursement" : "Option Plenitude : 2x50€/an"
+  },
+  { "name" : "Adrea Alpes/Dauphiné",
+    "adresse" : "226 cours de la liberation 38069 Grenoble cedex 2",
+    "telephone" : "04 76 33 93 93",
+    "remboursement" : "Family'1 : 40€/an, Family'2 : 80€/an, Family'3 : 120€/an ; Patch Médecine Douce 1 : +80€/an, 2 : +150€/an"
+  },
+  { "name" : "Adréa Mutuelles Bourgogne (Unio)",
+    "adresse" : "24 bis rue lacretelle-Bp 534-71010 Macon cedex",
+    "telephone" : "08 10 81 00 08",
+    "remboursement" : "tous les contrats à partir de Mut éco : de 4x10€/an à 4x40€/an"
+  },
+  { "name" : "Adrea (Unilia Mutuelle)",
+    "adresse" : "393 Rue de l'Hostellerie 30018 Nimes cedex 9",
+    "telephone" : "08 10 49 13 00/04 66 29 09 06",
+    "remboursement" : "Renfort Bien Etre : Créatlibre : 6x10€/an, Ritmalibre, Dinalibre : 6x15€/an"
+  },
+  { "name" : "Ageo direct",
+    "adresse" : "14 Rue Joliot curie BP 248 51 010 Chalons en champagne",
+    "telephone" : "03 26 26 22 22",
+    "remboursement" : "tous les contrats : 3 consultations/an ; Frontalier : jusqu'à 4x50€/an"
+  },
+  { "name" : "AGGEMA",
+    "adresse" : "8 rue des accacias 92 130 Issy les moulineaux",
+    "telephone" : "01 41 90 98 58",
+    "remboursement" : "5x20€/an"
+  },
+  { "name" : "AGIPI",
+    "adresse" : "12 Av Pierre Mendes France 67312 Schiltigheim cedex",
+    "telephone" : "03 90 23 90 09",
+    "remboursement" : "Contrat : TM : 62€/an, Confort : 124€/an, Privilège : 218 €/an"
+  },
+  { "name" : "AIO santé",
+    "adresse" : "1 rue Marcel Paul BP 80615 44006 Nantes cedex 1",
+    "telephone" : "02 51 25 20 23",
+    "remboursement" : "Sanouva : Niveau 2 : 50€/an, Niveau 3 : 100€/an, Niveau 4 : 150€/an, Niveau 5 : 200€/an"
+  },
+  { "name" : "Allianz",
+    "adresse" : "87 rue de richelieu 75002 Paris",
+    "telephone" : "01 44 86 20 00",
+    "remboursement" : "Renfort Confort : Niveau 1 à 4 : 4x25€/an, Niveau 5 : 4x30€/an, Niveau 6 : 4x50€/an, Niveau 7 : 4x70€/an"
+  },
+  { "name" : "Alp assurances (ex cogéalp)",
+    "adresse" : "33 Rue Maurice Flandin 69444 Lyon cedex 3",
+    "telephone" : "04 78 95 75 34",
+    "remboursement" : "Rembourse l'ostéopathie"
+  },
+  { "name" : "Alptis",
+    "adresse" : "33 cours Albert Thomas 69445 Lyon cedex 3",
+    "telephone" : "04 72 36 16 16/08 10 04 40 00",
+    "remboursement" : "Claréa 2, Divinéa, Sublima : 5x25€/an ; Divinéa : +pack bien etre"
+  },
+  { "name" : "Apicil",
+    "adresse" : "38 Rue Francois Peisel 69300 Caluire et Cuire",
+    "telephone" : "08 11 46 10 46",
+    "remboursement" : "Prestation Elargie : de 40 à 120€/an"
+  },
+  { "name" : "Apréva (Arc en ciel, Prévanor, Prévéa, Avenir Mutualiste)",
+    "adresse" : "20 Bd Denis Papin Bp 1173 59012 Lille cedex",
+    "telephone" : "03 27 22 82 06",
+    "remboursement" : "Module Bien Etre : Jusqu'à 150€/an"
+  },
+  { "name" : "Aphtema-Fidac (2009)",
+    "adresse" : "14 Rue Etienne Marcel 47300 Villeneuve/lot",
+    "telephone" : "05 53 49 42 95",
+    "remboursement" : "Mutua Confort : 180€/an/famille, 45€/consultation ; ASR Eco : 50€/an ; ASR Equilibre : 100€/an ; ASR Confort : 150€/an ; Latitude A2 : 100€/an ; Latitude A3 : 100€/an ; ASR Excellence : 200€/an"
+  },
+  { "name" : "April",
+    "adresse" : "27 Rue Maurice Flandin BP 3261 Lyon cedex 3",
+    "telephone" : "04 72 36 73 73",
+    "remboursement" : "Formule ZEN : 100 à 200€/an ; Santé Globale+pack bien etre : Niveau Avantage : 5x25€/an, Niveau Privilège : 5x50€/an ; Essentielle : Niveau 2 : 2x25€/an, Niveau 3 : 3x25€/an, Niveau 4 : 4x25€/an, Niveau 5 : 5x25€/an, Niveau 6 : 6x25€/an"
+  },
+  { "name" : "Assuréo",
+    "adresse" : "8 Parvis De St Maur 94100 Saint Maur",
+    "telephone" : "01 55 12 05 55",
+    "remboursement" : "A : 2x15€/an, B : 2x30€/an, C : 3x40€/an, D : 5x50€/an"
+  },
+  { "name" : "Assuronline",
+    "adresse" : "BP 30200 95210 Saint Gratien",
+    "telephone" : "01 76 29 75 00",
+    "remboursement" : "Equilibre : 2x20€/an, Confort : 3x30€/an, Sérénité : 4x40€/an ; Sénior : Essentiel : 2x20€/an, Equilibre : 3x20€/an, Confort : 4x30€/an, Sérénité : 4x40€/an"
+  },
+  { "name" : "Audiens (Bellini Gutenberg prevoyance, Mudos, Maps, MNPL)",
+    "adresse" : "74 Rue Jean Bleuzen 92177 Vannes ",
+    "telephone" : "08 11 65 50 50",
+    "remboursement" : "Selon contrat ; Sénior : Niveau 1 : 50% frais réel jusqu'à 50€/an, Niveau 2 : 50% des frais réels jusqu'à 150€/an, Option 3 : 50% des frais réels jusqu'à 225€/an, Niveau 4 : 50% des frais jusqu'à 300€/an, Niveau 5 : 50% des frais réels jusqu'à 400€ ; TNS : Médium, Confort : 60% frais réels, Grand Confort : 70% frais réels ; Intermitants : Option 2 : 4x15€/an, Option 3 : 3x30€/an ; Pigistes : Option 2 : 50% des frais réels jusqu'à 150€/an"
+  },
+  { "name" : "Aviva",
+    "adresse" : "13 Rue du Moulin Bailly 92271 Bois colombes ",
+    "telephone" : "01 76 62 50 00",
+    "remboursement" : "Santhia : Avec Pack Optique Dentaire : Niveau 1 : 50€/an, Niveau 2 : 100€/an, Niveau 3 : 150€/an, Niveau 4 : 200€/an, Formule 7 : 100€/an ; Santhia jeune : Confort Santé : Niveau 1 : 30€/an, Niveau 2 : 60€/an"
+  },
+  { "name" : "Axa",
+    "adresse" : "Service information Client - 313 Terrasse de l'Arche 92727 Nanterre ",
+    "telephone" : "02 41 87 58 49",
+    "remboursement" : "Module Confort : +25 €/an, Modulango 125%, 150%, 200% : 3x25€/an, Modulango 400% : 10x40€/an"
+  }
+]

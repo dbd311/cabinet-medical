@@ -1,0 +1,404 @@
+[
+    {
+        "name": "Maaf Santé",
+        "adresse": "Chaban De Chauray 79 036 Niort cedex 9",
+        "telephone": "05 49 34 35 36",
+        "remboursement": "Niveau 3 : 2x25€/an, Niveau 4 : 2x35€/an, Niveau 5 : 3x50€/an"
+    },
+    {
+        "name": "Macaad",
+        "adresse": "5 Rue Sainte Anne 21000 Dijon",
+        "telephone": "03 80 60 52 70",
+        "remboursement": "Eco, Confo, Totale : 5x20€/an"
+    },
+    {
+        "name": "Malakoff Médéric (Urpimec, SMM)",
+        "adresse": "21 Rue Lafitte-75317 Paris Cedex 09",
+        "telephone": "01 56 03 45 67 / 3932",
+        "remboursement": "Tonique, Energique 1 : 3x15€/an ; Tonique, Energique 2 : 3x25€/an"
+    },
+    {
+        "name": "Mapa (Santéclair)",
+        "adresse": "1 Rue Anatole Contré 17411 Saint Jean d'Angely",
+        "telephone": "05 46 59 59 59",
+        "remboursement": "Module Bien Etre : Niveau 2 : Jusqu'à 30€/an, Niveau 3 : Jusqu'à 60€/an, Niveau 4 : Jusqu'à 90€/an, Niveau 5 : Jusqu'à 150€/an, Niveau 6, 7 : Jusqu'à 200€/an"
+    },
+    {
+        "name": "Matmut",
+        "adresse": "66 Rue de Sotteville 76001 Rouen",
+        "telephone": "02 35 03 68 68",
+        "remboursement": "Jeune : Niveau 2 : 50€/an, Niveau 3 : 80€/an ; Famille : Niveau 2 : 80€/an, Niveau 3 : 100€/an, Niveau 4 : 120€/an ; Enfants : Niveau 1 : 30€/an, Niveau 2 : 100€/an ; 55+ : Niveau 2 : 50€/an, Niveau 3 : 100€/an, Niveau 4 : 120€/an"
+    },
+    {
+        "name": "MCD ( mutuelle de Paris…)",
+        "adresse": "44 Rue Copernic-Bp 7716- 75762 Paris cedex 16",
+        "telephone": "01 44 17 35 35",
+        "remboursement": "Formule 4 : 3x20€/an, Formule 5 : 3x40€/an, Formule 6, 7 : 3x60€/an"
+    },
+    {
+        "name": "Mcf (mutuelle centrale de France)",
+        "adresse": "10 Rue Augiste Blanqui 93187 Montreuil Sous Bois ",
+        "telephone": "01 41 63 55 55",
+        "remboursement": "Mcf Prévention : 3x20€/an"
+    },
+    {
+        "name": "Ménages Prévoyants",
+        "adresse": "11 Rue Albet Sarraut 78028 Versaille",
+        "telephone": "01 39 24 60 00/08 10 12 09 63",
+        "remboursement": "Civiss : 4x25€/an, Base : 3x25€/an, Option Plus : 4x20€/an, Altiss : 4x40€/an"
+    },
+    {
+        "name": "Mercer",
+        "adresse": "Centre de tiers payant'Pisseloup 52501 Fayl la forêt ",
+        "telephone": "08 25 04 50 00",
+        "remboursement": "Solution 40 : Formule B, C : 4x20€/an ; Solution 25 : Formule B, C : 4x15€/an ; Solution 50 : Formule 1 : 4x15€/an, Formule 2 : 4x20€/an, Formule 3 : 4x25€/an, Excellence : 4x40€/an"
+    },
+    {
+        "name": "Meusrec",
+        "adresse": "3 Bis Rue du Stade 85170 Belleville sur Vie",
+        "telephone": "02 51 41 18 47",
+        "remboursement": "M1 : 40% des frais jusqu'à 50€/an, M4 : 50% des frais jusqu'à 150€/an"
+    },
+    {
+        "name": "MFIF (mutuelle familiale d'ile de France)",
+        "adresse": "12 Villa Laugier 75017 Paris",
+        "telephone": "01 43 80 06 62",
+        "remboursement": "Essentiel 3, 3S : 4x50€/an, Essentiel 4, 4S : 4x60€/an ; Agent Territorial : Prudence : 6x30€/an, Sécurité : 6x60€/an"
+    },
+    {
+        "name": "MGEFI",
+        "adresse": "10 square F.Truffaut-BP204 49002 Angers",
+        "telephone": "09 69 39 64 34",
+        "remboursement": "Vita Santé : 3x20€/an"
+    },
+    {
+        "name": "MGEN",
+        "adresse": "3 square Max Hymans 75748 Paris cedex 15",
+        "telephone": "08 20 21 92 19",
+        "remboursement": "2x22,5€/an"
+    },
+    {
+        "name": "MHV",
+        "adresse": "Pavillon Le Blaye Sud Bp 59 86002 Poitiers ",
+        "telephone": "05 49 44 44 07",
+        "remboursement": "Prudence : Jusqu'à 70€/an, Confort : Jusqu'à 120€/an, Sérénité : Jusqu'à 140€/an, Moderato : Jusqu'à 50€/an, Tempo : Jusqu'à 100€/an, Fortissimo : Jusqu'à 120€/an"
+    },
+    {
+        "name": "Miel mut",
+        "adresse": "11 Rue du gris de lin 42021 Saint Etienne cedex 1",
+        "telephone": "04 77 49 35 35",
+        "remboursement": "Famille : Emeraude : Jusqu'à 50€/an, Ambre : Jusqu'à 60€/an, Nacre : Jusqu'à 80€/an, Sénior : Costa Dorada : Jusqu'à 60€/an, Costa Blanca : Jusqu'à 80€/an, Costa Del Sol : Jusqu'à 100€/an ; TNS : Salsa : Jusqu'à 60€/an, Tango : Jusqu'à 80€/an, Flamenco : Jusqu'à 100€/an"
+    },
+    {
+        "name": "MMA (Azur)",
+        "adresse": "14 Bld Marie et Alexandre Oyon 72000 La Mans",
+        "telephone": "02 43 41 72 72",
+        "remboursement": "Essentiel 2, 3, Confort"
+    },
+    {
+        "name": "MMEI (Mutuelle des métiers electrique et informatique) (UMC)",
+        "adresse": "35-37 Rue Saint sabin 75534 Paris cedex 11",
+        "telephone": "01 49 29 49 29",
+        "remboursement": "Essentie l: 4x24,1€/an, Confort : 4x27,24€/an, Grand Confort : 4x31,43€/an"
+    },
+    {
+        "name": "MMJ (mutuelle du ministère de la justice)",
+        "adresse": "53 Rue de Rivoli 75038 Paris cedex 1",
+        "telephone": "01 44 76 68 68",
+        "remboursement": "Vita Santé : 3x30€/an, Multi Santé+ : 3x30€/an"
+    },
+    {
+        "name": "MNPAF (Air France)",
+        "adresse": "2 place de Londres 95725 Roissy cedex",
+        "telephone": "01 48 64 56 18",
+        "remboursement": "Altitude 300 : 3x20€/an, Altitude 350 : 3x30€/an, Altitude 400 : 3x50€/an"
+    },
+    {
+        "name": "MNSP (Mutuelle nationale des sapeurs pompiers)",
+        "adresse": "6 bld Déodat de severac -Bp 60327- 31773 Colomiers",
+        "telephone": "05 62 13 20 20",
+        "remboursement": "Santé 112 Label : 2x30€/an, Santé 18 Jeunes : 3x20€/an, Santé 18 Label : 3x20€/an, Santé 18 Label Plus : 3x30€/an"
+    },
+    {
+        "name": "MPCDC",
+        "adresse": "59 Rue de Lille 75007 Paris",
+        "telephone": "01 58 50 43 00",
+        "remboursement": "5x15€/an"
+    },
+    {
+        "name": "Mpct77",
+        "adresse": "73 rue Eugene-Delaroue 77190 DAMMARIE-LES-LYS",
+        "telephone": "01 64 39 16 00",
+        "remboursement": "Garantie A, B, B+, C : 75€/an, Garantie C+ : 112,5€/an, Garantie D, D+ : 150€/an, Garantie E : 187,5€/an"
+    },
+    {
+        "name": "MSAE (Mutuelle solidarité aérospatiale)",
+        "adresse": "Eurocopter aeroport intrenational 13725 Marignane ",
+        "telephone": "04 42 85 85 56",
+        "remboursement": "Niveau 1 : 20€/an, Niveau 2 : 40€/an, Niveau 3 : 75€/an, Confort, Energie : 75€/an"
+    },
+    {
+        "name": "MSP (Mutuelle des services publics)",
+        "adresse": "1 Rue Francois Moisson 13002 Marseille",
+        "telephone": "04 91 99 07 07",
+        "remboursement": "Essentielle : 2x30€/an, Dynamique : 5x30€/an, Visio+ : 2x30€/an, Denti+ : 2x30€/an, Intégrale :5x30€/an"
+    },
+    {
+        "name": "MSPP (Mutuelle des sapeurs pompiers de Paris)",
+        "adresse": "104 Av de Fontainebleau 94270 Le Kremlin Bicetre",
+        "telephone": "01 43 90 14 55",
+        "remboursement": "Formule Complémentaire : Jusqu'à 90 €/an"
+    },
+    {
+        "name": "MTRL",
+        "adresse": "126-128 Rue Pierre Corneille 69421 Lyon cedex 3",
+        "telephone": "08 10 81 14 94",
+        "remboursement": "Reflexe Prévention Santé : 6x40€/an"
+    },
+    {
+        "name": "Mupas",
+        "adresse": "96 Rue Léon Gontran Damas 97232 Le Lamentin",
+        "telephone": "05 96 70 49 33",
+        "remboursement": "Sénior : 6x30€/an"
+    },
+    {
+        "name": "Muros Centre",
+        "adresse": "125 Rue Faubourg Bannier 45000 Orleans",
+        "telephone": "08 20 36 62 25",
+        "remboursement": "Surcomplémentaire : Extendo 1, 3 : Jusqu'à 100 €/an, Extendo 2, 4 : Jusqu'à 200€/an"
+    },
+    {
+        "name": "Mutaero (Sogerma, eads, smema ...)",
+        "adresse": "34 Bld Riquet 31015 Toulouse cedex 6",
+        "telephone": "08 11 88 03 80",
+        "remboursement": "Equilibre : Jusqu'à 70€/an, Référence : Jusqu'à 150€/an"
+    },
+    {
+        "name": "Mutalliance",
+        "adresse": "14 Rue Coquillière 75001 Paris",
+        "telephone": "01 42 33 83 33",
+        "remboursement": "Particuliers : Niveau 3 : 4x30€/an, Niveau 4 : 4x50€/an ; Independant : CAP 100 : 30€/an, CAP 130 : 40€/an, CAP 160 : 50€/an, CAP 200 : 75€/an, CAP 300 : 100€/an, CAP 400 : 150€/an ; Entreprises : Essentiel 1, 2 : Jusqu'à 3x10€/an, Eco : Jusqu'à 3x20€/an, Eco 1, 2 : Jusqu'à 3x25€/an, Energie, 1, 2, Equilibre, 1, 2 : Jusqu'à 3x30€/an, Exigence : Jusqu'à 3x40€/an, Excellence : Jusqu'à 3x50€/an, Excellence 1 : Jusqu'à 65€/an, Excellence 2 : Jusqu'à 3x70€/an"
+    },
+    {
+        "name": "Mutame Normandie",
+        "adresse": "4 Rue Emile Enault 50008 Saint Lô ",
+        "telephone": "02 33 05 29 29",
+        "remboursement": "Agents territoriales, Membres exterieurs : Atout Santé Plus : Mutame 1 : 2x15€/an, Mutame 2 : 4x15€/an, Mutame 3 : 5x15€/an"
+    },
+    {
+        "name": "Mutieg (edf-gdf)",
+        "adresse": "37 Rue de Chateaudun 75009 Paris",
+        "telephone": "01 58 05 10 40",
+        "remboursement": "CSM: 35% des frais 12x/an; CSMR: 35% des frais 12x/an; Sodeli: +15% des fraisx12/an, Cort: +25% des Fraisx12/an; Conjoint non camieig: 12x50% des frais; Souplesse, Equilibre, Confort: 12x50% des frais/an, Ain: 12x15% des frais/an"
+    },
+    {
+        "name": "Mutlor",
+        "adresse": "11 Rue Du Colonel Merlin 54414 Longwy ",
+        "telephone": "03 82 25 79 00",
+        "remboursement": "Etudilor, Regime spécial : 50% des frais jusqu'à 130€/an ; Contrat Jeune : 50% de frais jusqu'à 80€, Regime normal : 50% des frais jusqu'à 100€/an"
+    },
+    {
+        "name": "Mutualia",
+        "adresse": "40 Rue Jean Jaures 93547 Bagnolet Cedex",
+        "telephone": "04 71 04 29 03",
+        "remboursement": "Forfait Bien Etre 2 : Jusqu'à 120€/an, Bien Etre 3 : Jusqu'à 150€/an"
+    },
+    {
+        "name": "Mutuelle Bleue",
+        "adresse": "1 rue Matabiau-BP 7084 31070 Toulouse cedex 7",
+        "telephone": "05 62 73 59 73",
+        "remboursement": "Module Bien Etre : 40% des frais jusqu'à 150€/an"
+    },
+    {
+        "name": "Mutuelle Catalane",
+        "adresse": "20 avenue de Grande Bretagne - 66029 Perpignan Cedex",
+        "telephone": "04 68 34 45 66",
+        "remboursement": "Equilibre, Relax, Securite, Harmonie : 2x50€/an"
+    },
+    {
+        "name": "Mutuelle D&O",
+        "adresse": "174 Rue de Charonne 75128 Paris cedex 11",
+        "telephone": "08 25 86 38 63",
+        "remboursement": "DO Diese : 100€/an, DO double diese : 150€/an, DO majeur : 300€/an"
+    },
+    {
+        "name": "Mutuelle de France Bretagne Centre Océans",
+        "adresse": "25 Rue Le Corbusier- ZAC DE AIRE NORD-17442 Aytre ",
+        "telephone": "08 10 00 80 34",
+        "remboursement": "Jeunes : Lagon : 40€/an, Caraibes : 70€/an ; Famille, Individuel : Adriatique : 40€/an, Atlantique : 2x40€/an, Pacifique : 4x40€/an ; Senior : Agate : 40€/an, Opale : 2x40€/an, Turquoise : 3x40€/an"
+    },
+    {
+        "name": "Mutuelle de la Somme",
+        "adresse": "39 Rue Lesueur 80 100 Abbeville",
+        "telephone": "03 22 25 48 84",
+        "remboursement": "Garantie FS, H, HS, MC'2, MC's : 4x30€"
+    },
+    {
+        "name": "Mutuelle de Roane",
+        "adresse": "9 Rue Jean Jaures 42335 Roane ",
+        "telephone": "04 77 70 08 88",
+        "remboursement": "Jeune : Rush+ : 2x25€/an, Rafting+, Raid+ : 25€/an ; Famille : Confort+, Bien Etre+ : 25€/an, Prestige+ : 2x25€/an ; Sénior : Concert+ : 25€/an, Opéra+ : 2x25€/an"
+    },
+    {
+        "name": "Mutuelle de Sète",
+        "adresse": "19 Rue Paul Valéry 34200 Sète",
+        "telephone": "04 67 74 70 30",
+        "remboursement": "Sécurité, Sénérité : 25€/an, Confort, Prestige : 2x25€/an ; Sénior : Equilibre: 30€/an, Harmonie, Tranquilité : 2x30€/an"
+    },
+    {
+        "name": "Mutuelles des cheminots Picard-Aisne",
+        "adresse": "159 Rue Jules Barni 80 000 Amiens",
+        "telephone": "03 22 91 00 54",
+        "remboursement": "Module 3 : 2x25€/an, Module 9 : 2x30€/an"
+    },
+    {
+        "name": "Mutuelle des Pays de Vilaine",
+        "adresse": "2 Grande route 35600 Redon",
+        "telephone": "02 99 72 13 00",
+        "remboursement": "Elémentaire, Complète, Plus, Confort 300 : 4x20€/an"
+    },
+    {
+        "name": "Mutuelle Dijonnaise",
+        "adresse": "14 Rue Millotet 21000 Dijon",
+        "telephone": "03 80 43 67 34",
+        "remboursement": "Economique : Jusqu'à 15x8€/an, Référence : Jusqu'à 15x15€/an, Performance : Jusqu'à 15x25€/an, Optimale : Jusqu'à 15x30€/an, Di jeunes : Jusqu'à 15x12€/an, Famille : Jusqu'à 15x8€/an, Demandeurs d'emploi : Jusqu'à 15x8€/an"
+    },
+    {
+        "name": "Mutuelles du Pays Haut",
+        "adresse": "10 Av de Saintignon 54414 Longwy",
+        "telephone": "03 82 24 37 05",
+        "remboursement": "Contrat Energie : 50% des frais jusqu'à 100€/an, Contrat Tonus : 50% des frais jusqu'à 150€/an"
+    },
+    {
+        "name": "Mutuelle du Soleil",
+        "adresse": "36, 36 bis Av marechal Foch 06000",
+        "telephone": "09 69 32 03 22",
+        "remboursement": "Soléa 40 : Jusqu'à 2x30,86€/an, Soléa 50 : Jusqu'à 3x30,86€/an, Soléa 60 : Jusqu'à 4x30,86€/an, Soléa 70 : Jusqu'à 5x30,86€/an"
+    },
+    {
+        "name": "Mutuelle du Rempart",
+        "adresse": "4-6 bld de Strasbourg - BP 7161 31072 Toulouse ",
+        "telephone": "05 62 15 07 16",
+        "remboursement": "Cedrat : Jusqu'à 4x20€/an, Fougères: Jusqu'à 4x25€/an, Bruyères : Jusqu'à 5x30€/an, Menthe : Jusqu'à 5x35€/an ; Etudiant : Tonus: Jusqu'à 4x25€/an, Brio : Jusqu'à 5x30€/an ; Territoriaux : Lauriers : Jusqu'à 4x20€/an, Badiane : Jusqu'à 5x30€/an, Muscade : Jusqu'à 5x35€/an, Safran : Jusqu'à 5x40€/an"
+    },
+    {
+        "name": "Mutuelle Entrain (Cheminots et personnel sncf)",
+        "adresse": "5 bld Camille Flammarion-Le massilia- 13001 Marseille",
+        "telephone": "08 11 02 54 54",
+        "remboursement": "Formule 2 : Jusqu'à 100€/an, Formule 3 : Jusqu'à 150€/an"
+    },
+    {
+        "name": "Mutuelle Familiale",
+        "adresse": "52 Rue d'Hauteville, 75487 Paris Cedex 10",
+        "telephone": "08 10 15 15 05",
+        "remboursement": "Santé Senior 1 : 4x15€/an, Santé Sénior 2 : 4x25€/an ; Tonic : 50€/an, Energic : 100€/an, Dynamic : 150€/an; Pass mutuelle : 40€/an"
+    },
+    {
+        "name": "Mutuelle Familliale Aquitaine",
+        "adresse": "112 Cours de la Marne 33800 Bordeaux",
+        "telephone": "05 56 91 70 64",
+        "remboursement": "Crescendo : Sécurité : 30%des frais, 60€/an, Sérénité : 40% des frais, 80€/an, Bien Etre : 50% des frais, 100€/a,; Confort : 50% des frais,120€/an, Préstige : 60% des frais, 120€/an, Allegro : Opale : 30% des frais, 60€/an, Jade : 40€ des frais, 80€/an, Rubis : 50% des frais, 100€/an, Adagio : TNS 2 : 40% des frais, 80€/an, TNS 3 : 50% des frais, 100€/an ; Largo : lavande : 30% des frais, 60€/an, Marine : 40% des frais, 80€/an, Indigo : 50% des frais, 100€/an, Saphir : 50% des frais, 120€/an"
+    },
+    {
+        "name": "Mutuelle Fonctionnaire territoriaux (MPCL)",
+        "adresse": "2 Place Jean Jaures 42000 Saint Etienne",
+        "telephone": "04 77 49 60 98",
+        "remboursement": "Nikel : Jusqu'à 100€/an, Nikel+ : Jusqu'à 75€/an, Saphir, Saphir sénior : 140€/an, Diamant, Diamant sénior : 160€/an"
+    },
+    {
+        "name": "Mutuelle france plus",
+        "adresse": "15 Rue Marcel Pagnol 69200 Vénissieux",
+        "telephone": "09 69 32 05 06",
+        "remboursement": "Attitude 2 : 2x25€/an, Attitude 3 : 3x25€/an, Attitude 4 : 3x35€/an, Attitude 5 : 3x45€/an, Attitude 6 : 3x55€/an"
+    },
+    {
+        "name": "Mutuelle générale (ex PTT ...)",
+        "adresse": "6 rue Vandrezanne 75634 Paris cedex 13",
+        "telephone": "08 00 45 54 55",
+        "remboursement": "dynamisme : Niveau 2, 3 : 3x20€, Niveau 4 : 3x40€/an ; Tribu : Niveau 1,2 : 3x20€/an, Niveau 3 : 3x30€/an, Niveau 4 : 3x40€/an, Sénior : Niveau 1,2 : 3x20€/an, Niveau 3 : 3x30€/an, Niveau 4 : 3x40€/an"
+    },
+    {
+        "name": "Mutuelle Générale d'Avignon AG2R",
+        "adresse": "375 Rue Pierre Seqhers- Cap Sud- 84000 Avignon",
+        "telephone": "04 90 89 16 90",
+        "remboursement": "Quartz : Jusqu'à 2x20€/an, Lilas, Ciel, Ambre, Marine : Jusqu'à 3x20€/an, Emeraude, Rubis : Jusqu'à 4x20€/an, Iris : Jusqu'à 70€/an"
+    },
+    {
+        "name": "Mutuelle Générale Santé",
+        "adresse": "22 Rue Malmaison 93544 Bagnolet ",
+        "telephone": "08 25 00 17 30",
+        "remboursement": "Mgs 1 : 3x20€/an, Mgs2 : Jusqu'à 3x23€/an, Mgs3 : Jusqu'à 3x25€/an, Mgs4 : Jusqu'à 3x30€/an"
+    },
+    {
+        "name": "Mutuelle Intériale ( MGPAT, SMPPN, MMI)",
+        "adresse": "Place Beauvau 75008 Paris",
+        "telephone": "08 90 89 00 00/01 77 86 99 42",
+        "remboursement": "Equilibre : 3x25€, Confort : 3x30€/an, Sérénité : 3x35€/an, Plénitude : 3x40€/an"
+    },
+    {
+        "name": "Mutuelle Jurassienne",
+        "adresse": "Batiment Chambre des metiers- 17 Rue Jules Bury 39005 Lons le saunier Cedex",
+        "telephone": "03 84 47 01 23",
+        "remboursement": "Niveau 3 : Jusqu'à 5x20€/an, Niveau 4 : Jusqu'à 5x30€/an, Niveau 5 : Jusqu'à 5x40€/an"
+    },
+    {
+        "name": "Mutuelle leroy somer AG2R",
+        "adresse": "16 Rue Brigade RAC, ZI de Rabion 16000 Angouleme",
+        "telephone": "05 45 64 50 88/05 45 64 52 09",
+        "remboursement": "MLS, SSO, Somepa : 4x30€/an"
+    },
+    {
+        "name": "Mutuelle Ligériennes",
+        "adresse": "12 Rue Beausoleil 44116 Vieillevigne",
+        "telephone": "02 40 26 52 40",
+        "remboursement": "Tempo, Médium, Tonus, Tonus+ : 3 consultations/an"
+    },
+    {
+        "name": "Mutuelle Médico Chirurgicale (MMC)",
+        "adresse": "6 Rue Paul Morel 70000 Vesoul",
+        "telephone": "03 84 75 16 44",
+        "remboursement": "Jeunes : Ip3 : Jusqu'à 60€/an, Vip3 : Jusqu'à 100€/an ; Famille : Essentiel : Jusqu'à 60€/an, Bien Etre : Jusqu'à 75€/an, Saga3 : Jusqu'à 100€/an ; Sénior : Silver: Jusqu'à 100€/an, Gold, Etoile3 : Jusqu'à 150€/an ; TNS : 49 III : Jusqu'à 50€/an, 59 III : Jusqu'à 100€/an ; Happy santé : HS 100 : Jusqu'à 40€/an, HS 150 : Jusqu'à 50€/an, HS 175 : Jusqu'à 60€/an, HS 250 : Jusqu'à 70€/an"
+    },
+    {
+        "name": "Mutuelle MOS",
+        "adresse": "42 Rue General Fauconnet 21000 Dijon",
+        "telephone": "03 80 78 91 50",
+        "remboursement": "Maximale : 3x40€/an, Alternal : 6x25€/an, Formule+ : Pastel : 20€/consultation jusqu'à 250€/an"
+    },
+    {
+        "name": "Mutuelle Nationale Territoriale (MNT)",
+        "adresse": "7 Rue Bergere 75311 Paris cedex 9",
+        "telephone": "01 44 83 12 34/08 20 20 12 02",
+        "remboursement": "3x30€/an"
+    },
+    {
+        "name": "Mutuelle Renault",
+        "adresse": "9 Rue de Clamart 92772 Boulogne ",
+        "telephone": "01 46 94 29 00",
+        "remboursement": "Option AB : 3x20€/an, Option AC : 4x20€/an, Option AS : 5x20€/an, Option AM : 6x20€/an"
+    },
+    {
+        "name": "Mutuelle Sainte Victoire",
+        "adresse": "8 cours Forbin 13120 GARDANNE",
+        "telephone": "04 42 58 34 68",
+        "remboursement": "Nuance 2 : 50€/an, Nuance 3 : 70€/an"
+    },
+    {
+        "name": "Mutuelles UMC (Mutatis, Sainte anne, Panotechnique, SMER, du Maine, Haute Saonoise, Cybele solidarité, MTD)",
+        "adresse": "35,37 Rue saint sabin 750011 Paris",
+        "telephone": "08 10 25 02 55",
+        "remboursement": "Pack Complémentaire Vitaléo: 100€ /an"
+    },
+    {
+        "name": "Mutuelle Verte",
+        "adresse": "78 Cours Lafayette-Bp 521-83041 Toulon ",
+        "telephone": "04 94 18 50 50",
+        "remboursement": "Confort : Reflex, Déclic : 3x10€/an, Tonic : 3x15€/an, Zénith : 3x25€/an, Zénith+ : 3x30€/an; Jeune : Energie+ : 75€/an; Mobilité : Jasmin : 60€/an, Sésame : 75€/an, Nature : Oxygène : 3x30€/an, Oxygène+ : 3x40€/an"
+    },
+    {
+        "name": "Myriade",
+        "adresse": "353 Bd du President Wilson 33079 Bordeaux ",
+        "telephone": "08 10 12 01 30",
+        "remboursement": "Comete : Média 1,5 : 2x20€, Média 2 : 3x30€, Maximia 2,5 : 3x30€, Maximia 3 : 3x30€, Maximia 3,5 : 4x40€ ; Galaxie : A partir de Média 1,5 : 2x20€/an ; Sirenius : Média 1,5 ; 2 ; 2,5 ; 3 : 2x20€/an, Maximia 3,5 : 3x20€/an"
+    }
+]

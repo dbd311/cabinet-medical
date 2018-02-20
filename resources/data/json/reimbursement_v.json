@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Verspieren",
+        "adresse": "1 av Francois Mitterand 59 290 Wasquehale",
+        "telephone": "09 70 80 93 09",
+        "remboursement": "Médiane : 5x20€/an, Optimale : 5x30€/an, Renfort 1 : +5x20€/an"
+    },
+    {
+        "name": "Viazimut (personnel ASF)",
+        "adresse": "Plateau du quatourze-Bp510- 11105 Narbonne",
+        "telephone": "08 10 14 50 14",
+        "remboursement": "Jeunes, Famille, Confort : 3x30,86€/an; Surcomplémentaire: 3x26,6€"
+    },
+    {
+        "name": "Vittavi",
+        "adresse": "104 Av Jean Rieux 31500 Toulouse",
+        "telephone": "08 25 82 57 15",
+        "remboursement": "Confortable+, Optimale+ : 25€/an, Idéal+ : 40€/an, Magistral+ : 80€/an"
+    },
+    {
+        "name": "Vauban Humanis (groupe humanis : Aprionis, Radiance)",
+        "adresse": "8 Rue Vauban 59000 Lille",
+        "telephone": "08 10 82 82 26",
+        "remboursement": "Rembourse Osteopathie"
+    }
+]

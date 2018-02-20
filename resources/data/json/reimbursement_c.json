@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Cabinet Vandamme",
+        "adresse": "4 rue du vieux Colombier 78 740 Evecquemont",
+        "telephone": "01 30 99 97 32",
+        "remboursement": "Effervescence : Niveau 1 : 6x20€/an, Niveau 2 : 6x30€/an, Niveau 3 : 6x40€/an, Niveau 4 : 6x50€/an, Niveau 5 : 6x60€/an, Maval : Niveau 1 : 2x15€/an, Niveau 2 : 3x15€/an, Niveau 3 : 3x18€/an, Niveau 4 : 3x23€/an, Niveau 5 : 3x25€/an, Niveau 6 : 3x33€/an, Niveau 7 : 3x37€/an, Niveau 8 : 3x46€/an, Niveau 9 : 3x56€/an ; Sénior 100 : 25€/an, Sénior 125 : 75€/an, Sénior 150 : 100€/an ; Frontalier Suisse : Niveau 2 : 5x25€/an, Niveau 3 : 5x30€/an, Niveau 4 : 5x40€/an"
+    },
+    {
+        "name": "Camieg",
+        "adresse": "92011 Nanterre cedex",
+        "telephone": "08 11 70 93 00",
+        "remboursement": "Rembourse l'ostéopathie"
+    },
+    {
+        "name": "Ccmo Mutuelle",
+        "adresse": "6 av du beauvaisis, pae du haut villé,Bp 50993-60014 Beauvais",
+        "telephone": "03 44 06 90 00",
+        "remboursement": "Modélia : Module Soins Courants : Niveau 3 : 3x30€/an, Niveau 4 : 4x30€/an, Niveau 5 : 5x30€/an, Niveau 6 : 6x30€/an ; Complément Médecine Douce : 10x35€/an"
+    },
+    {
+        "name": "Cegema",
+        "adresse": "79 Av Docteur Julien Lefebvre 06272",
+        "telephone": "04 92 02 08 50",
+        "remboursement": "Docilia : 4x30€/an, Vitanéo : V2 : Jusqu'à 3x30€/an, V3, V4 : Jusqu'à 4x30€/an, V5 : Jusqu'à 5x30€/an ; Résalis : R2, R3, R4 : 3x30€/an, R5, R6, R7 : 4x30€/an ; Ecomut : Eco 2 : 2x30€/an, Eco 3, 4, 5, 6 : 3x30€/an ; Maxima Surcomplémentaire : Option 1 : 5x25€/an, Option 2 : 5x30€/an, Option 3 : 5x40€/an ; Maxima Monaco : M2 : 3x30€/an, M3 : 4x30€/an, M4 : 5x30€/an, M5 : 6x30€/an"
+    },
+    {
+        "name": "CIC Assurance Santé",
+        "adresse": "38 Place de Jaude 63000 Clermont Ferrand",
+        "telephone": "08 20 01 02",
+        "remboursement": "Reflexe Prévention : 6x40€/an"
+    },
+    {
+        "name": "CMIP",
+        "adresse": "53 Av de senlis BP 90307 60803 Crepy en valois ",
+        "telephone": "03 44 59 00 80",
+        "remboursement": "3x30€/an sauf Option 0,5"
+    },
+    {
+        "name": "Compagnie des femmes",
+        "adresse": "33 av des Champs elysées 75008 Paris",
+        "telephone": "01 70 64 83 36",
+        "remboursement": "Option Douce, Ingénieuse, Généreuse: 3x30€/an"
+    },
+    {
+        "name": "Covimut",
+        "adresse": "5 Rue des Carmes 86036 Poitiers ",
+        "telephone": "05 49 01 86 55",
+        "remboursement": "50€/an"
+    }
+]

@@ -1,0 +1,10 @@
+psql
+
+\list or \l: list all databases
+\dt: list all tables in the current database
+
+\connect database_name
+
+
+
+SELECT * from customers as C, appointments as A where C.id = A.customer_id;

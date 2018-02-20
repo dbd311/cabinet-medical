@@ -1,0 +1,20 @@
+[
+    {
+        "name": "La choletaise (mutuelle de Mortagne, mutuelle des Coopérateurs)",
+        "adresse": "27 Rue de mondement BP 49306 Cholet ",
+        "telephone": "02 41 49 16 16",
+        "remboursement": "Forfait Annuel : 50% des frais jusqu'à 80€/an"
+    },
+    {
+        "name": "La frontalière",
+        "adresse": "15 Rue Tartre Marin -Bp 43121-25503 Morteau Cedex",
+        "telephone": "03 81 67 00 88",
+        "remboursement": "tous les forfait : Jusqu'à 150€/an"
+    },
+    {
+        "name": "LMDE",
+        "adresse": "37 Rue Marceau 94200 Ivry-sur -Seine",
+        "telephone": "3260",
+        "remboursement": "Forfait, Forfait Optimum : 2x15€/an ; Parents à la MGEN : 2x20€/an"
+    }
+]
